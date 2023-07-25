@@ -14,8 +14,14 @@ Explore the "C++ Programming Fundamentals" repository—an all-inclusive, beginn
 9. Functions (Call by reference and recursive call) 
 10. Pointers
 11. Strings
-12. Structures-1
-13. Structures-2
+12. Structures
+13. Project
+14. Composition
+15. Inheritence
+16. Polymorphism
+17. Operator Overloading
+18. Operator Overloading-2
+19. Project
 
 **How to Use:**
 
